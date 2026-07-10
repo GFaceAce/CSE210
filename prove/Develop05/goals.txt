@@ -1,0 +1,4 @@
+100
+ChecklistGoal:Healthy Eating,Eat fruit,10,3,3,50
+SimpleGoal:Sleep,Go to bed early the day before the exam,10,True
+EternalGoal:Bedtime,Go to bed before midnight,5
